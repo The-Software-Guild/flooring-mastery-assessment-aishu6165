@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,Date,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,TaxTotal
+1,hifi,11082021,ca,25.00,carpet,180,2.25,2.10,405.00,378.00,195.7500,978.7500
+4,aish,11082021,tx,4.45,carpet,120,2.25,2.10,270.00,252.00,23.229000,545.229000
+5,test,11082021,wa,9.25,carpet,134,2.25,2.10,301.50,281.40,53.918250,636.818250
+6,Test,11082021,TX,4.45,carpet,123,2.25,2.10,276.75,258.30,23.809725,558.859725

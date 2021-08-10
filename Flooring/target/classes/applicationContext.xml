@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+                http://www.springframework.org/schema/beans
+                http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="dao" class="com.flooring.dao.FlooringDaoImpl">
+
+    </bean>
+    <bean id="io" class="com.flooring.ui.UserIoimpl">
+
+    </bean>
+
+    <bean id="service" class="com.flooring.service.FlooringServiceImpl">
+        <constructor-arg ref="dao" />
+    </bean>
+
+    <bean id="controller" class="com.flooring.controller.FlooringController">
+        <constructor-arg ref="service" />
+        <constructor-arg ref="io" />
+    </bean>
+
+</beans>

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,Date,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,TaxTotal
+1,Test,12082021,TX,4.45,Tile,110,3.50,4.15,385.00,456.50,37.446750,878.946750

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,Date,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,TaxTotal
+1,Donald,10082021,tx,4.45,laminate,123,1.75,2.10,215.25,258.30,21.072975,494.622975

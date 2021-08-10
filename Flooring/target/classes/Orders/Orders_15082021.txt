@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,Date,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,TaxTotal
+1,asdfh,15082021,wa,9.25,wood,167,5.15,4.75,860.05,793.25,152.930250,1806.230250
